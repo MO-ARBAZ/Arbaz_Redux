@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Arbaz_Redux/static/css/main.84615026.chunk.css",
+    "main.js": "/Arbaz_Redux/static/js/main.35928b44.chunk.js",
+    "main.js.map": "/Arbaz_Redux/static/js/main.35928b44.chunk.js.map",
+    "runtime-main.js": "/Arbaz_Redux/static/js/runtime-main.1e1ea6d8.js",
+    "runtime-main.js.map": "/Arbaz_Redux/static/js/runtime-main.1e1ea6d8.js.map",
+    "static/js/2.aa2ecaae.chunk.js": "/Arbaz_Redux/static/js/2.aa2ecaae.chunk.js",
+    "static/js/2.aa2ecaae.chunk.js.map": "/Arbaz_Redux/static/js/2.aa2ecaae.chunk.js.map",
+    "index.html": "/Arbaz_Redux/index.html",
+    "static/css/main.84615026.chunk.css.map": "/Arbaz_Redux/static/css/main.84615026.chunk.css.map",
+    "static/js/2.aa2ecaae.chunk.js.LICENSE.txt": "/Arbaz_Redux/static/js/2.aa2ecaae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e1ea6d8.js",
+    "static/js/2.aa2ecaae.chunk.js",
+    "static/css/main.84615026.chunk.css",
+    "static/js/main.35928b44.chunk.js"
+  ]
+}
